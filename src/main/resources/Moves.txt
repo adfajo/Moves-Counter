@@ -1,0 +1,360 @@
+1, Pound, Normal, 35, 1
+2, Karate Chop, Normal, 25, 1
+3, DoubleSlap, Normal, 10, 1
+4, Comet Punch, Normal, 15, 1
+5, Mega Punch, Normal, 20, 1
+6, Pay Day, Normal, 20, 1
+7, Fire Punch, Fire, 15, 1
+8, Ice Punch, Ice, 15, 1
+9, ThunderPunch, Electric, 15, 1
+10, Scratch, Normal, 35, 1
+11, Vice Grip, Normal, 30, 1
+12, Guillotine, Normal, 5, 1
+13, Razor Wind, Normal, 10, 1
+14, Swords Dance, Normal, 30, 1
+15, Cut, Normal, 30, 1
+16, Gust, Normal, 35, 1
+17, Wing Attack, Flying, 35, 1
+18, Whirlwind, Normal, 20, 1
+19, Fly, Flying, 15, 1
+20, Bind, Normal, 20, 1
+21, Slam, Normal, 20, 1
+22, Vine Whip, Grass, 10, 1
+23, Stomp, Normal, 20, 1
+24, Double Kick, Fighting, 30, 1
+25, Mega Kick, Normal, 5, 1
+26, Jump Kick, Fighting, 25, 1
+27, Rolling Kick, Fighting, 15, 1
+28, Sand-Attack, Normal, 15, 1
+29, Headbutt, Normal, 15, 1
+30, Horn Attack, Normal, 25, 1
+31, Fury Attack, Normal, 20, 1
+32, Horn Drill, Normal, 5, 1
+33, Tackle, Normal, 35, 1
+34, Body Slam, Normal, 15, 1
+35, Wrap, Normal, 20, 1
+36, Take Down, Normal, 20, 1
+37, Thrash, Normal, 20, 1
+38, Double-Edge, Normal, 15, 1
+39, Tail Whip, Normal, 30, 1
+40, Poison Sting, Poison, 35, 1
+41, Twineedle, Bug, 20, 1
+42, Pin Missile, Bug, 20, 1
+43, Leer, Normal, 30, 1
+44, Bite, Normal, 25, 1
+45, Growl, Normal, 40, 1
+46, Roar, Normal, 20, 1
+47, Sing, Normal, 15, 1
+48, Supersonic, Normal, 20, 1
+49, SonicBoom, Normal, 20, 1
+50, Disable, Normal, 20, 1
+51, Acid, Poison, 30, 1
+52, Ember, Fire, 25, 1
+53, Flamethrower, Fire, 15, 1
+54, Mist, Ice, 30, 1
+55, Water Gun, Water, 25, 1
+56, Hydro Pump, Water, 5, 1
+57, Surf, Water, 15, 1
+58, Ice Beam, Ice, 10, 1
+59, Blizzard, Ice, 5, 1
+60, Psybeam, Psychic, 20, 1
+61, BubbleBeam, Water, 20, 1
+62, Aurora Beam, Ice, 20, 1
+63, Hyper Beam, Normal, 5, 1
+64, Peck, Flying, 35, 1
+65, Drill Peck, Flying, 20, 1
+66, Submission, Fighting, 25, 1
+67, Low Kick, Fighting, 20, 1
+68, Counter, Fighting, 20, 1
+69, Seismic Toss, Fighting, 20, 1
+70, Strength, Normal, 15, 1
+71, Absorb, Grass, 20, 1
+72, Mega Drain, Grass, 10, 1
+73, Leech Seed, Grass, 10, 1
+74, Growth, Normal, 40, 1
+75, Razor Leaf, Grass, 25, 1
+76, SolarBeam, Grass, 10, 1
+77, PoisonPowder, Poison, 35, 1
+78, Stun Spore, Grass, 30, 1
+79, Sleep Powder, Grass, 15, 1
+80, Petal Dance, Grass, 20, 1
+81, String Shot, Bug, 40, 1
+82, Dragon Rage, Dragon, 10, 1
+83, Fire Spin, Fire, 15, 1
+84, ThunderShock, Electric, 30, 1
+85, Thunderbolt, Electric, 15, 1
+86, Thunder Wave, Electric, 20, 1
+87, Thunder, Electric, 10, 1
+88, Rock Throw, Rock, 15, 1
+89, Earthquake, Ground, 10, 1
+90, Fissure, Ground, 5, 1
+91, Dig, Ground, 10, 1
+92, Toxic, Poison, 10, 1
+93, Confusion, Psychic, 25, 1
+94, Psychic, Psychic, 10, 1
+95, Hypnosis, Psychic, 20, 1
+96, Meditate, Psychic, 40, 1
+97, Agility, Psychic, 30, 1
+98, Quick Attack, Normal, 30, 1
+99, Rage, Normal, 20, 1
+100, Teleport, Psychic, 20, 1
+101, Night Shade, Ghost, 15, 1
+102, Mimic, Normal, 10, 1
+103, Screech, Normal, 40, 1
+104, Double Team, Normal, 15, 1
+105, Recover, Normal, 20, 1
+106, Harden, Normal, 30, 1
+107, Minimize, Normal, 20, 1
+108, SmokeScreen, Normal, 20, 1
+109, Confuse Ray, Ghost, 10, 1
+110, Withdraw, Water, 40, 1
+111, Defense Curl, Normal, 40, 1
+112, Barrier, Psychic, 30, 1
+113, Light Screen, Psychic, 30, 1
+114, Haze, Ice, 30, 1
+115, Reflect, Psychic, 20, 1
+116, Focus Energy, Normal, 30, 1
+117, Bide, Normal, 10, 1
+118, Metronome, Normal, 10, 1
+119, Mirror Move, Flying, 20, 1
+120, Selfdestruct, Normal, 5, 1
+121, Egg Bomb, Normal, 10, 1
+122, Lick, Ghost, 30, 1
+123, Smog, Poison, 20, 1
+124, Sludge, Poison, 20, 1
+125, Bone Club, Ground, 20, 1
+126, Fire Blast, Fire, 5, 1
+127, Waterfall, Water, 15, 1
+128, Clamp, Water, 10, 1
+129, Swift, Normal, 20, 1
+130, Skull Bash, Normal, 15, 1
+131, Spike Cannon, Normal, 15, 1
+132, Constrict, Normal, 35, 1
+133, Amnesia, Psychic, 20, 1
+134, Kinesis, Psychic, 15, 1
+135, Softboiled, Normal, 10, 1
+136, Hi Jump Kick, Fighting, 20, 1
+137, Glare, Normal, 30, 1
+138, Dream Eater, Psychic, 15, 1
+139, Poison Gas, Poison, 40, 1
+140, Barrage, Normal, 20, 1
+141, Leech Life, Bug, 15, 1
+142, Lovely Kiss, Normal, 10, 1
+143, Sky Attack, Flying, 5, 1
+144, Transform, Normal, 10, 1
+145, Bubble, Water, 30, 1
+146, Dizzy Punch, Normal, 10, 1
+147, Spore, Grass, 15, 1
+148, Flash, Normal, 20, 1
+149, Psywave, Psychic, 15, 1
+150, Splash, Normal, 40, 1
+151, Acid Armor, Poison, 40, 1
+152, Crabhammer, Water, 10, 1
+153, Explosion, Normal, 5, 1
+154, Fury Swipes, Normal, 15, 1
+155, Bonemerang, Ground, 10, 1
+156, Rest, Psychic, 10, 1
+157, Rock Slide, Rock, 10, 1
+158, Hyper Fang, Normal, 15, 1
+159, Sharpen, Normal, 30, 1
+160, Conversion, Normal, 30, 1
+161, Tri Attack, Normal, 10, 1
+162, Super Fang, Normal, 10, 1
+163, Slash, Normal, 20, 1
+164, Substitute, Normal, 10, 1
+165, Struggle, Normal, 10, 1
+2, Karate Chop, Fighting, 25, 2
+16, Gust, Flying, 35, 2
+28, Sand-Attack, Ground, 15, 2
+44, Bite, Dark, 25, 2
+165, Struggle, Normal, 1, 2
+166, Skecth, Normal, 1, 2
+167, Triple Kick, Fighting, 10, 2
+168, Thief, Dark, 10, 2
+169, Spider Web, Bug, 10, 2
+170, Mind Reader, Normal, 5, 2
+171, Nightmare, Ghost, 15, 2
+172, Flame Wheel, Fire, 25, 2
+173, Snore, Normal, 15, 2
+174, Curse, ???, 10, 2
+175, Flail, Normal, 15, 2
+176, Conversion2, Normal, 30, 2
+177, Aeroblast, Flying, 5, 2
+178, Cotton Spore, Grass, 40, 2
+179, Reversal, Fighting, 15, 2
+180, Spite, Ghost, 10, 2
+181, Powder Snow, Ice, 25, 2
+182, Protect, Normal, 10, 2
+183, Mach Punch, Fighting, 30, 2
+184, Scary Face, Normal, 10, 2
+185, Feint Attack, Dark, 20, 2
+186, Sweet Kiss, Normal, 10, 2
+187, Belly Drum, Normal, 10, 2
+188, Sludge Bomb, Poison, 10, 2
+189, Mud-Slap, Ground, 10, 2
+190, Octazooka, Water, 10, 2
+191, Spikes, Ground, 20, 2
+192, Zap Cannon, Electric, 5, 2
+193, Foresight, Normal, 40, 2
+194, Destiny Bond, Ghost, 5, 2
+195, Perish Song, Normal, 5, 2
+196, Icy Wind, Ice, 15, 2
+197, Detect, Fighting, 5, 2
+198, Bone Rush, Ground, 10, 2
+199, Lock-On, Normal, 5, 2
+200, Outrage, Dragon, 15, 2
+201, Sandstorm, Rock, 10, 2
+202, Giga Drain, Grass, 5, 2
+203, Endure, Normal, 10, 2
+204, Charm, Normal, 20, 2
+205, Rollout, Rock, 20, 2
+206, False Swipe, Normal, 40, 2
+207, Swagger, Normal, 15, 2
+208, Milk Drink, Normal, 10, 2
+209, Spark, Electric, 20, 2
+210, Fury Cutter, Bug, 20, 2
+211, Steel Wing, Steel, 25, 2
+212, Mean Look, Normal, 5, 2
+213, Attract, Normal, 15, 2
+214, Sleep Talk, Normal, 10, 2
+215, Heal Bell, Normal, 5, 2
+216, Return, Normal, 20, 2
+217, Present, Normal, 15, 2
+218, Frustration, Normal, 20, 2
+219, Safeguard, Normal, 25, 2
+220, Pain Split, Normal, 20, 2
+221, Sacred Fire, Fire, 5, 2
+222, Magnitude, Ground, 30, 2
+223, Dynamic Punch, Fighting, 5, 2
+224, Megahorn, Bug, 10, 2
+225, Dragon Breath, Dragon, 20, 2
+226, Baton Pass, Normal, 40, 2
+227, Encore, Normal, 5, 2
+228, Pursuit, Dark, 20, 2
+229, Rapid Spin, Normal, 40, 2
+230, Sweet Scent, Normal, 20, 2
+231, Iron Tail, Steel, 15, 2
+232, Metal Claw, Steel, 35, 2
+233, Vital Throw, Fighting, 10, 2
+234, Morning Sun, Normal, 5, 2
+235, Synthesis, Grass, 5, 2
+236, Moonlight, Normal, 5, 2
+237, Hidden Power, Normal, 15, 2
+238, Cross Chop, Fighting, 5, 2
+239, Twister, Dragon, 20, 2
+240, Rain Dance, Water, 5, 2
+241, Sunny Day, Fire, 5, 2
+242, Crunch, Dark, 15, 2
+243, Mirror Coat, Psychic, 20, 2
+244, Psych Up, Normal, 10, 2
+245, Extreme Speed, Normal, 5, 2
+246, Ancient Power, Rock, 5, 2
+247, Shadow Ball, Ghost, 15, 2
+248, Future Sight, Psychic, 15, 2
+249, Rock Smash, Fighting, 15, 2
+250, Whirlpool, Water, 15, 2
+251, Beat Up, Dark, 10, 2
+176, Conversion 2, Normal, 30, 3
+252, Fake Out, Normal, 10, 3
+253, Uproar, Normal, 10, 3
+254, Stockpile, Normal, 10, 3
+255, Spit Up, Normal, 10, 3
+256, Swallow, Normal, 10, 3
+257, Heat Wave, Fire, 10, 3
+258, Hail, Ice, 10, 3
+259, Torment, Dark, 15, 3
+260, Flatter, Dark, 15, 3
+261, Will-O-Wisp, Fire, 15, 3
+262, Memento, Dark, 10, 3
+263, Facade, Normal, 20, 3
+264, Focus Punch, Fighting, 20, 3
+265, Smelling Salts, Normal, 10, 3
+266, Follow Me, Normal, 20, 3
+267, Nature Power, Normal, 20, 3
+268, Charge, Electric, 20, 3
+269, Taunt, Dark, 20, 3
+270, Helping Hand, Normal, 20, 3
+271, Trick, Psychic, 10, 3
+272, Role Play, Psychic, 10, 3
+273, Wish, Normal, 10, 3
+274, Assist, Normal, 20, 3
+275, Ingrain, Grass, 20, 3
+276, Superpower, Fighting, 5, 3
+277, Magic Coat, Psychic, 15, 3
+278, Recycle, Normal, 10, 3
+279, Revenge, Fighting, 10, 3
+280, Brick Break, Fighting, 15, 3
+281, Yawn, Normal, 10, 3
+282, Knock Off, Dark, 20, 3
+283, Endeavor, Normal, 5, 3
+284, Eruption, Fire, 5, 3
+285, Skill Swap, Psychic, 10, 3
+286, Imprison, Psychic, 10, 3
+287, Refresh, Normal, 20, 3
+288, Grudge, Ghost, 5, 3
+289, Snatch, Dark, 10, 3
+290, Secret Power, Normal, 20, 3
+291, Dive, Water, 10, 3
+292, Arm Thrust, Fighting, 20, 3
+293, Camouflage, Normal, 20, 3
+294, Tail Glow, Bug, 20, 3
+295, Luster Purge, Psychic, 5, 3
+296, Mist Ball, Psychic, 5, 3
+297, Feather Dance, Flying, 15, 3
+298, Teeter Dance, Normal, 20, 3
+299, Blaze Kick, Fire, 10, 3
+300, Mud Sport, Ground, 15, 3
+301, Ice Ball, Ice, 20, 3
+302, Needle Arm, Grass, 15, 3
+303, Slack Off, Normal, 10, 3
+304, Hyper Voice, Normal, 10, 3
+305, Poison Fang, Poison, 15, 3
+306, Crush Claw, Normal, 10, 3
+307, Blast Burn, Fire, 5, 3
+308, Hydro Cannon, Water, 5, 3
+309, Meteor Mash, Steel, 10, 3
+310, Astonish, Ghost, 15, 3
+311, Weather Ball, Normal, 10, 3
+312, Aromatherapy, Grass, 5, 3
+313, Fake Tears, Dark, 20, 3
+314, Air Cutter, Flying, 25, 3
+315, Overheat, Fire, 5, 3
+316, Odor Sleuth, Normal, 40, 3
+317, Rock Tomb, Rock, 10, 3
+318, Silver Wind, Bug, 5, 3
+319, Metal Sound, Steel, 40, 3
+320, Grass Whistle, Grass, 15, 3
+321, Tickle, Normal, 20, 3
+322, Cosmic Power, Psychic, 20, 3
+323, Water Spout, Water, 5, 3
+324, Signal Beam, Bug, 15, 3
+325, Shadow Punch, Ghost, 20, 3
+326, Extrasensory, Psychic, 30, 3
+327, Sky Uppercut, Fighting, 15, 3
+328, Sand Tomb, Ground, 15, 3
+329, Sheer Cold, Ice, 5, 3
+330, Muddy Water, Water, 10, 3
+331, Bullet Seed, Grass, 30, 3
+332, Aerial Ace, Flying, 20, 3
+333, Icicle Spear, Ice, 30, 3
+334, Iron Defense, Steel, 15, 3
+335, Block, Normal, 5, 3
+336, Howl, Normal, 40, 3
+337, Dragon Claw, Dragon, 15, 3
+338, Frenzy Plant, Grass, 5, 3
+339, Bulk Up, Fighting, 20, 3
+340, Bounce, Flying, 5, 3
+341, Mud Shot, Ground, 15, 3
+342, Poison Tail, Poison, 25, 3
+343, Covet, Normal, 40, 3
+344, Volt Tackle, Electric, 15, 3
+345, Magical Leaf, Grass, 20, 3
+346, Water Sport, Water, 15, 3
+347, Calm Mind, Psychic, 20, 3
+348, Leaf Blade, Grass, 15, 3
+349, Dragon Dance, Dragon, 20, 3
+350, Rock Blast, Rock, 10, 3
+351, Shock Wave, Electric, 20, 3
+352, Water Pulse, Water, 20, 3
+353, Doom Desire, Steel, 5, 3
+354, Psycho Boost, Psychic, 5, 3

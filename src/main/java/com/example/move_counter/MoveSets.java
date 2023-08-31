@@ -11,6 +11,14 @@ public class MoveSets {
         this.allMoves = new ArrayList<>();
     }
 
+    public ArrayList<Move> getAllMoves(){
+        return allMoves;
+    }
+
+    public ArrayList<Move> getActiveMoves(){
+        return activeMoves;
+    }
+
     public void addMove(Move move){
         allMoves.add(move);
     }
