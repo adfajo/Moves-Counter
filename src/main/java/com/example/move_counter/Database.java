@@ -28,11 +28,7 @@ public class Database {
         String type = scan.next();
         int pP = Integer.valueOf(scan.next());
         int gen = Integer.valueOf(scan.next());
-        try{
-          moveSet.addMove(new Move(number, name, type, pP, gen));
-        }catch(RuntimeException e){
-          System.out.println(line);
-        }
+        moveSet.addMove(new Move(number, name, type, pP, gen));
         line = bf.readLine();
       }
       bf.close();
@@ -44,4 +40,6 @@ public class Database {
       throw new RuntimeException(e);
     }
   }
+
+
 }
