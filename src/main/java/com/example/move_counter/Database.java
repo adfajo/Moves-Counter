@@ -23,11 +23,11 @@ public class Database {
       while(line != null){
         Scanner scan = new Scanner(line);
         scan.useDelimiter(", ");
-        int number = Integer.valueOf(scan.next());
+        int number = Integer.parseInt(scan.next());
         String name = scan.next();
         String type = scan.next();
-        int pP = Integer.valueOf(scan.next());
-        int gen = Integer.valueOf(scan.next());
+        int pP = Integer.parseInt(scan.next());
+        int gen = Integer.parseInt(scan.next());
         moveSet.addMove(new Move(number, name, type, pP, gen));
         line = bf.readLine();
       }
