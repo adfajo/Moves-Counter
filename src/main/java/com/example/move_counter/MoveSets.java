@@ -29,14 +29,6 @@ public class MoveSets {
         allMoves.remove(move);
     }
 
-    public void addToActiveListGen(int gen){
-        for(Move move : allMoves){
-            if(move.getGen() == gen){
-                listMoves.add(move);
-            }
-        }
-    }
-
     public void addToActiveListType(String type){
         for(Move move : allMoves){
             if(move.getType().equals(type)){
@@ -68,43 +60,6 @@ public class MoveSets {
     public void removeAllMovesFromActiveMoves(){
         for(Move move : activeMoves){
             activeMoves.remove(move);
-        }
-    }
-
-    public void getAGen(int gen){
-        if(gen < 10 && gen > 0){
-            for(Move move : allMoves) {
-                if (move.getGen() <= gen) {
-                    listMoves.add(move);
-                }
-            }
-        }
-    }
-
-    public void detectMultipleMoves(ArrayList<Move> list){
-        Set<Integer> uniqueNumbers = new HashSet<>();
-        Set<Integer> duplicateNumbers = new HashSet<>();
-        int times = 0;
-
-        for(Move move : list){
-            int number = move.getNumber();
-
-            if(uniqueNumbers.contains(number)){
-                duplicateNumbers.add(number);
-                times ++;
-            }else{
-                uniqueNumbers.add(number);
-            }
-        }
-        while(times > 0){
-            for(Move move : list){
-                for(int num : duplicateNumbers){
-                    if(move.getNumber() == num){
-                        list.remove(move);
-                        times --;
-                    }
-                }
-            }
         }
     }
 }

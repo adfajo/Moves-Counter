@@ -22,17 +22,18 @@ public class Database {
       String line = bf.readLine();
       while(line != null){
         Scanner scan = new Scanner(line);
-        scan.useDelimiter(", ");
-        int number = Integer.parseInt(scan.next());
+        scan.useDelimiter("\t");
         String name = scan.next();
+        System.out.println(name);
         String type = scan.next();
         int pP = Integer.parseInt(scan.next());
-        int gen = Integer.parseInt(scan.next());
-        moveSet.addMove(new Move(number, name, type, pP, gen));
+        String power = scan.next();
+        String acc = scan.next();
+        String desc = scan.next();
+        moveSet.addMove(new Move(name, type, pP, power, acc, desc));
         line = bf.readLine();
       }
       bf.close();
-      System.out.println(moveSet.getAllMoves());
       return moveSet;
     } catch (FileNotFoundException e) {
       throw new RuntimeException(e);
@@ -40,6 +41,4 @@ public class Database {
       throw new RuntimeException(e);
     }
   }
-
-
 }

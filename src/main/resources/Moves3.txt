@@ -1,0 +1,353 @@
+Fury Cutter	Bug	20	10	95	An attack that intensifies on each successive hit.
+Leech Life	Bug	15	20	100	An attack that steals half the damage inflicted.
+Megahorn	Bug	10	120	85	A brutal ramming attack using out-thrust horns.
+Pin Missile	Bug	20	14	85	Sharp pins are fired to strike 2 to 5 times.
+Signal Beam	Bug	15	75	100	A strange beam attack that may confuse the foe.
+Silver Wind	Bug	5	60	100	A powdery attack that may raise abilities.
+Spider Web	Bug	10	--	100	Ensnares the foe to stop it from fleeing or switching.
+String Shot	Bug	40	--	95	Binds the foe with string to reduce its SPEED.
+Tail Glow	Bug	20	--	100	Flashes a light that sharply raises SP. ATK.
+Twineedle	Bug	20	25	100	Stingers on the forelegs jab the foe twice.
+Beat Up	Dark	10	10	100	Summons party POKéMON to join in the attack.
+Bite	Dark	25	60	100	Bites with vicious fangs. May cause flinching.
+Crunch	Dark	15	80	100	Crunches with sharp fangs. May lower SP. DEF.
+Faint Attack	Dark	20	60	--	Draws the foe close, then strikes without fail.
+Fake Tears	Dark	20	--	100	Feigns crying to sharply lower the foe's SP. DEF.
+Flatter	Dark	15	--	100	Confuses the foe, but raises its SP. ATK.
+Knock Off	Dark	20	20	100	Knocks down the foe's held item to prevent its use.
+Memento	Dark	10	--	100	The user faints and lowers the foe's abilities.
+Pursuit	Dark	20	40	100	Inflicts bad damage if used on a foe switching out.
+Snatch	Dark	10	--	100	Steals the effects of the move the foe uses next.
+Taunt	Dark	20	--	100	Taunts the foe into only using attack moves.
+Thief	Dark	10	40	100	While attacking, it may steal the foe's held item.
+Torment	Dark	15	--	100	Torments the foe and stops successive use of a move.
+Dragon Claw	Dragon	15	80	100	Slashes the foe with sharp claws.
+Dragon Dance	Dragon	20	--	--	A mystical dance that ups ATTACK and SPEED.
+Dragon Rage	Dragon	10	--	100	Launches shock waves that always inflict 40 HP damage.
+Dragonbreath	Dragon	20	60	100	Strikes the foe with an incredible blast of breath.
+Outrage	Dragon	15	90	100	A rampage of 2 to 3 turns that confuses the user.
+Twister	Dragon	20	40	100	Whips up a vicious twister to tear at the foe.
+Charge	Electric	20	--	100	Charges power to boost the electric move used next.
+Shock Wave	Electric	20	60	--	A fast and unavoidable electric attack.
+Spark	Electric	20	65	100	An electrified tackle that may paralyze the foe.
+Thunder	Electric	10	120	70	A lightning attack that may cause paralysis.
+Thunder Wave	Electric	20	--	100	A weak jolt of electricity that paralyzes the foe.
+Thunderbolt	Electric	15	95	100	A strong electrical attack that may paralyze the foe.
+Thunderpunch	Electric	15	75	100	An electrified punch that may paralyze the foe.
+Thundershock	Electric	30	40	100	An electrical attack that may paralyze the foe.
+Volt Tackle	Electric	15	120	100	A life-risking tackle that slightly hurts the user.
+Zap Cannon	Electric	5	100	50	Powerful and sure to cause paralysis, but inaccurate.
+Arm Thrust	Fighting	20	15	100	Straight-arm punches that strike the foe 2 to 5 times.
+Brick Break	Fighting	15	75	100	Destroys barriers such as REFLECT and causes damage.
+Bulk Up	Fighting	20	--	--	Bulks up the body to boost both ATTACK and DEFENSE.
+Counter	Fighting	20	--	100	Retaliates any physical hit with double the power.
+Cross Chop	Fighting	5	100	80	A double-chopping attack. High critical-hit ratio.
+Detect	Fighting	5	--	--	Evades attack, but may fail if used in succession.
+Double Kick	Fighting	30	30	100	A double-kicking attack that strikes the foe twice.
+Dynamicpunch	Fighting	5	100	50	Powerful and sure to cause confusion, but inaccurate.
+Focus Punch	Fighting	20	150	100	A powerful loyalty attack. The user flinches if hit.
+Hi Jump Kick	Fighting	20	85	90	A jumping knee kick. If it misses, the user is hurt.
+Jump Kick	Fighting	25	70	95	A strong jumping kick. May miss and hurt the kicker.
+Karate Chop	Fighting	25	50	100	A chopping attack with a high critical-hit ratio.
+Low Kick	Fighting	20	--	100	A kick that inflicts more damage on heavier foes.
+Mach Punch	Fighting	30	40	100	A punch is thrown at wicked speed to strike first.
+Revenge	Fighting	10	60	100	An attack that gains power if injured by the foe.
+Reversal	Fighting	15	--	100	Inflicts more damage when the user's HP is down.
+Rock Smash	Fighting	15	20	100	A rock-crushing attack that may lower DEFENSE.
+Rolling Kick	Fighting	15	60	85	A fast kick delivered from a rapid spin.
+Seismic Toss	Fighting	20	--	100	Inflicts damage identical to the user's level.
+Sky Uppercut	Fighting	15	85	90	An uppercut thrown as if leaping into the sky.
+Submission	Fighting	25	80	80	A reckless body slam that also hurts the user.
+Superpower	Fighting	5	120	100	Boosts strength sharply, but lowers abilities.
+Triple Kick	Fighting	10	10	90	Kicks the foe 3 times in a row with rising intensity.
+Vital Throw	Fighting	10	70	100	Makes the user's move last, but it never misses.
+Blast Burn	Fire	5	150	90	Powerful, but leaves the user immobile the next turn.
+Blaze Kick	Fire	10	85	90	A kick with a high critical- hit ratio. May cause a burn.
+Ember	Fire	25	40	100	A weak fire attack that may inflict a burn.
+Eruption	Fire	5	150	100	The higher the user's HP, the more damage caused.
+Fire Blast	Fire	5	120	85	A fiery blast that scorches all. May cause a burn.
+Fire Punch	Fire	15	75	100	A fiery punch that may burn the foe.
+Fire Spin	Fire	15	15	70	Traps the foe in a ring of fire for 2 to 5 turns.
+Flame Wheel	Fire	25	60	100	A fiery charge attack that may inflict a burn.
+Flamethrower	Fire	15	95	100	A powerful fire attack that may inflict a burn.
+Heat Wave	Fire	10	100	90	Exhales a hot breath on the foe. May inflict a burn.
+Overheat	Fire	5	140	90	Allows a full-power attack, but sharply lowers SP. ATK.
+Sacred Fire	Fire	5	100	95	A mystical fire attack that may inflict a burn.
+Sunny Day	Fire	5	--	--	Boosts the power of FIRE- type moves for 5 turns.
+Will-o-wisp	Fire	15	--	75	Inflicts a burn on the foe with intense fire.
+Aerial Ace	Flying	20	60	--	An extremely speedy and unavoidable attack.
+Aeroblast	Flying	5	100	95	Launches a vacuumed blast. High critical-hit ratio.
+Air Cutter	Flying	25	55	95	Hacks with razorlike wind. High critical-hit ratio.
+Bounce	Flying	5	85	85	Bounces up, then down the next turn. May paralyze.
+Drill Peck	Flying	20	80	100	A corkscrewing attack with the beak acting as a drill.
+Featherdance	Flying	15	--	100	Envelops the foe with down to sharply reduce ATTACK.
+Fly	Flying	15	70	95	Flies up on the first turn, then strikes the next turn.
+Gust	Flying	35	40	100	Strikes the foe with a gust of wind whipped up by wings.
+Mirror Move	Flying	20	--	--	Counters the foe's attack with the same move.
+Peck	Flying	35	35	100	Attacks the foe with a jabbing beak, etc.
+Sky Attack	Flying	5	140	90	Searches out weak spots, then strikes the next turn.
+Wing Attack	Flying	35	60	100	Strikes the foe with wings spread wide.
+Astonish	Ghost	15	30	100	An attack that may shock the foe into flinching.
+Confuse Ray	Ghost	10	--	100	A sinister ray that confuses the foe.
+Destiny Bond	Ghost	5	--	--	If the user faints, the foe is also made to faint.
+Grudge	Ghost	5	--	100	If the user faints, deletes the PP of the final move.
+Lick	Ghost	30	20	100	Licks with a long tongue to injure. May also paralyze.
+Night Shade	Ghost	15	--	100	Inflicts damage identical to the user's level.
+Nightmare	Ghost	15	--	100	Inflicts 1/4 damage on a sleeping foe every turn.
+Shadow Ball	Ghost	15	80	100	Hurls a black blob that may lower the foe's SP. DEF.
+Shadow Punch	Ghost	20	60	--	An unavoidable punch that is thrown from shadows.
+Spite	Ghost	10	--	100	Spitefully cuts the PP of the foe's last move.
+Absorb	Grass	20	20	100	An attack that absorbs half the damage inflicted.
+Aromatherapy	Grass	5	--	--	Heals all status problems with a soothing scent.
+Bullet Seed	Grass	30	10	100	Shoots 2 to 5 seeds in a row to strike the foe.
+Cotton Spore	Grass	40	--	85	Spores cling to the foe, sharply reducing SPEED.
+Frenzy Plant	Grass	5	150	90	Powerful, but leaves the user immobile the next turn.
+Giga Drain	Grass	5	60	100	An attack that steals half the damage inflicted.
+Grasswhistle	Grass	15	--	55	Lulls the foe into sleep with a pleasant melody.
+Ingrain	Grass	20	--	100	Lays roots that restore HP. The user can't switch out.
+Leaf Blade	Grass	15	70	100	Slashes with a sharp leaf. High critical-hit ratio.
+Leech Seed	Grass	10	--	90	Plants a seed on the foe to steal HP on every turn.
+Magical Leaf	Grass	20	60	--	Attacks with a strange leaf that cannot be evaded.
+Mega Drain	Grass	10	40	100	An attack that absorbs half the damage inflicted.
+Needle Arm	Grass	15	60	100	Attacks with thorny arms. May cause flinching.
+Petal Dance	Grass	20	70	100	A rampage of 2 to 3 turns that confuses the user.
+Razor Leaf	Grass	25	55	95	Cuts the enemy with leaves. High critical-hit ratio.
+Sleep Powder	Grass	15	--	75	Scatters a powder that may cause the foe to sleep.
+Solarbeam	Grass	10	120	100	Absorbs light in one turn, then attacks next turn.
+Spore	Grass	15	--	100	Scatters a cloud of spores that always induce sleep.
+Stun Spore	Grass	30	--	75	Scatters a powder that may paralyze the foe.
+Synthesis	Grass	5	--	--	Restores HP. The amount varies with the weather.
+Vine Whip	Grass	10	35	100	Strikes the foe with slender, whiplike vines.
+Bone Club	Ground	20	65	85	Clubs the foe with a bone. May cause flinching.
+Bone Rush	Ground	10	25	80	Strikes the foe with a bone in hand 2 to 5 times.
+Bonemerang	Ground	10	50	90	Throws a bone boomerang that strikes twice.
+Dig	Ground	10	60	100	Digs underground the first turn and strikes next turn.
+Earthquake	Ground	10	100	100	A powerful quake, but has no effect on flying foes.
+Fissure	Ground	5	--	30	A one-hit KO move that drops the foe in a fissure.
+Magnitude	Ground	30	--	100	A ground-shaking attack of random intensity.
+Mud Shot	Ground	15	55	95	Hurls mud at the foe and reduces SPEED.
+Mud Sport	Ground	15	--	100	Covers the user in mud to raise electrical resistance.
+Mud-slap	Ground	10	20	100	Hurls mud in the foe's face to reduce its accuracy.
+Sand Tomb	Ground	15	15	70	Traps and hurts the foe in quicksand for 2 to 5 turns.
+Sand-attack	Ground	15	--	100	Reduces the foe's accuracy by hurling sand in its face.
+Spikes	Ground	20	--	--	Sets spikes that hurt a foe switching out.
+Aurora Beam	Ice	20	65	100	Fires a rainbow-colored beam that may lower ATTACK.
+Blizzard	Ice	5	120	70	Hits the foe with an icy storm that may freeze it.
+Hail	Ice	10	--	--	Summons a hailstorm that strikes every turn.
+Haze	Ice	30	--	--	Creates a black haze that eliminates all stat changes.
+Ice Ball	Ice	20	30	90	A 5-turn attack that gains power on successive hits.
+Ice Beam	Ice	10	95	100	Blasts the foe with an icy beam that may freeze it.
+Ice Punch	Ice	15	75	100	An icy punch that may freeze the foe.
+Icicle Spear	Ice	30	10	100	Attacks the foe by firing 2 to 5 icicles in a row.
+Icy Wind	Ice	15	55	95	A chilling attack that lowers the foe's SPEED.
+Mist	Ice	30	--	--	Creates a mist that stops reduction of abilities.
+Powder Snow	Ice	25	40	100	Blasts the foe with a snowy gust. May cause freezing.
+Sheer Cold	Ice	5	--	30	A chilling attack that causes fainting if it hits.
+Assist	Normal	20	--	100	Attacks randomly with one of the partner's moves.
+Attract	Normal	15	--	100	Makes the opposite gender less likely to attack.
+Barrage	Normal	20	15	85	Hurls round objects at the foe 2 to 5 times.
+Baton Pass	Normal	40	--	--	Switches out the user while keeping effects in play.
+Belly Drum	Normal	10	--	--	Maximizes ATTACK while sacrificing HP.
+Bide	Normal	10	--	100	Endures attack for 2 turns to retaliate double.
+Bind	Normal	20	15	75	Binds and squeezes the foe for 2 to 5 turns.
+Block	Normal	5	--	100	Blocks the foe's way to prevent escape.
+Body Slam	Normal	15	85	100	A full-body slam that may cause paralysis.
+Camouflage	Normal	20	--	100	Alters the POKéMON's type depending on the location.
+Charm	Normal	20	--	100	Charms the foe and sharply reduces its ATTACK.
+Comet Punch	Normal	15	18	85	Repeatedly punches the foe 2 to 5 times.
+Constrict	Normal	35	10	100	Constricts to inflict pain. May lower SPEED.
+Conversion	Normal	30	--	--	Changes the user's type into an own move's type.
+Conversion 2	Normal	30	--	100	Makes the user resistant to the last attack's type.
+Covet	Normal	40	40	100	Cutely begs to obtain an item held by the foe.
+Crush Claw	Normal	10	75	95	Tears at the foe with sharp claws. May lower DEFENSE.
+Cut	Normal	30	50	95	Cuts the foe with sharp scythes, claws, etc.
+Defense Curl	Normal	40	--	--	Curls up to conceal weak spots and raise DEFENSE.
+Disable	Normal	20	--	55	Psychically disables one of the foe's moves.
+Dizzy Punch	Normal	10	70	100	A rhythmic punch that may confuse the foe.
+Double Team	Normal	15	--	--	Creates illusory copies to raise evasiveness.
+Double-edge	Normal	15	120	100	A life-risking tackle that also hurts the user.
+Doubleslap	Normal	10	15	85	Repeatedly slaps the foe 2 to 5 times.
+Egg Bomb	Normal	10	100	75	An egg is forcibly hurled at the foe.
+Encore	Normal	5	--	100	Makes the foe repeat its last move over 2 to 6 turns.
+Endeavor	Normal	5	--	100	Gains power if the user's HP is lower than the foe's HP.
+Endure	Normal	10	--	--	Endures any attack for 1 turn, leaving at least 1HP.
+Explosion	Normal	5	250	100	Inflicts severe damage but makes the user faint.
+Extremespeed	Normal	5	80	100	An extremely fast and powerful attack.
+Facade	Normal	20	70	100	Boosts ATTACK when burned, paralyzed, or poisoned.
+Fake Out	Normal	10	40	100	A 1st-turn, 1st-strike move that causes flinching.
+False Swipe	Normal	40	40	100	An attack that leaves the foe with at least 1 HP.
+Flail	Normal	15	--	100	Inflicts more damage when the user's HP is down.
+Flash	Normal	20	--	70	Looses a powerful blast of light that cuts accuracy.
+Focus Energy	Normal	30	--	--	Focuses power to raise the critical-hit ratio.
+Follow Me	Normal	20	--	100	Draws attention to make foes attack only the user.
+Foresight	Normal	40	--	100	Negates the foe's efforts to heighten evasiveness.
+Frustration	Normal	20	--	100	An attack that is stronger if the TRAINER is disliked.
+Fury Attack	Normal	20	15	85	Jabs the foe 2 to 5 times with sharp horns, etc.
+Fury Swipes	Normal	15	18	80	Rakes the foe with sharp claws, etc., 2 to 5 times.
+Glare	Normal	30	--	75	Intimidates and frightens the foe into paralysis.
+Growl	Normal	40	--	100	Growls cutely to reduce the foe's ATTACK.
+Growth	Normal	40	--	--	Forces the body to grow and heightens SP. ATK.
+Guillotine	Normal	5	--	30	A powerful pincer attack that may cause fainting.
+Harden	Normal	30	--	--	Stiffens the body's muscles to raise DEFENSE.
+Headbutt	Normal	15	70	100	A ramming attack that may cause flinching.
+Heal Bell	Normal	5	--	--	Chimes soothingly to heal all status abnormalities.
+Helping Hand	Normal	20	--	100	Boosts the power of the recipient's moves.
+Hidden Power	Normal	15	--	100	The effectiveness varies with the user.
+Horn Attack	Normal	25	65	100	Jabs the foe with sharp horns.
+Horn Drill	Normal	5	--	30	A one-hit KO attack that uses a horn like a drill.
+Howl	Normal	40	--	--	Howls to raise the spirit and boosts ATTACK.
+Hyper Beam	Normal	5	150	90	Powerful, but leaves the user immobile the next turn.
+Hyper Fang	Normal	15	80	90	Attacks with sharp fangs. May cause flinching.
+Hyper Voice	Normal	10	90	100	A loud attack that uses sound waves to injure.
+Leer	Normal	30	--	100	Frightens the foe with a leer to lower DEFENSE.
+Lock-on	Normal	5	--	100	Locks on to the foe to ensure the next move hits.
+Lovely Kiss	Normal	10	--	75	Demands a kiss with a scary face that induces sleep.
+Mean Look	Normal	5	--	100	Fixes the foe with a mean look that prevents escape.
+Mega Kick	Normal	5	120	75	An extremely powerful kick with intense force.
+Mega Punch	Normal	20	80	85	A strong punch thrown with incredible power.
+Metronome	Normal	10	--	--	Waggles a finger to use any POKéMON move at random.
+Milk Drink	Normal	10	--	--	Recovers up to half the user's maximum HP.
+Mimic	Normal	10	--	100	Copies a move used by the foe during one battle.
+Mind Reader	Normal	5	--	100	Senses the foe's action to ensure the next move's hit.
+Minimize	Normal	20	--	--	Minimizes the user's size to raise evasiveness.
+Moonlight	Normal	5	--	--	Restores HP. The amount varies with the weather.
+Morning Sun	Normal	5	--	--	Restores HP. The amount varies with the weather.
+Nature Power	Normal	20	--	95	The type of attack varies depending on the location.
+Odor Sleuth	Normal	40	--	100	Negates the foe's efforts to heighten evasiveness.
+Pain Split	Normal	20	--	100	Adds the user and foe's HP, then shares them equally.
+Pay Day	Normal	20	40	100	Throws coins at the foe. Money is recovered after.
+Perish Song	Normal	5	--	--	Any POKéMON hearing this song faints in 3 turns.
+Pound	Normal	35	40	100	Pounds the foe with forelegs or tail.
+Present	Normal	15	--	90	A gift in the form of a bomb. May restore HP.
+Protect	Normal	10	--	--	Evades attack, but may fail if used in succession.
+Psych Up	Normal	10	--	--	Copies the foe's effect(s) and gives to the user.
+Quick Attack	Normal	30	40	100	An extremely fast attack that always strikes first.
+Rage	Normal	20	20	100	Raises the user's ATTACK every time it is hit.
+Rapid Spin	Normal	40	20	100	Spins the body at high speed to strike the foe.
+Razor Wind	Normal	10	80	100	A 2-turn move that strikes the foe on the 2nd turn.
+Recover	Normal	20	--	--	Recovers up to half the user's maximum HP.
+Recycle	Normal	10	--	100	Recycles a used item for one more use.
+Refresh	Normal	20	--	100	Heals poisoning, paralysis, or a burn.
+Return	Normal	20	--	100	An attack that increases in power with friendship.
+Roar	Normal	20	--	100	Makes the foe flee to end the battle.
+Safeguard	Normal	25	--	--	A mystical force prevents all status problems.
+Scary Face	Normal	10	--	90	Frightens with a scary face to sharply reduce SPEED.
+Scratch	Normal	35	40	100	Scratches the foe with sharp claws.
+Screech	Normal	40	--	85	Emits a screech to sharply reduce the foe's DEFENSE.
+Secret Power	Normal	20	70	100	An attack with effects that vary by location.
+Selfdestruct	Normal	5	200	100	Inflicts severe damage but makes the user faint.
+Sharpen	Normal	30	--	--	Reduces the polygon count and raises ATTACK.
+Sing	Normal	15	--	55	A soothing song lulls the foe into a deep slumber.
+Sketch	Normal	1	--	--	Copies the foe's last move permanently.
+Skull Bash	Normal	15	100	100	Tucks in the head, then attacks on the next turn.
+Slack Off	Normal	10	--	100	Slacks off and restores half the maximum HP.
+Slam	Normal	20	80	75	Slams the foe with a long tail, vine, etc.
+Slash	Normal	20	70	100	Slashes with claws, etc. Has a high critical-hit ratio.
+Sleep Talk	Normal	10	--	--	Uses an own move randomly while asleep.
+Smellingsalt	Normal	10	60	100	Powerful against paralyzed foes, but also heals them.
+Smokescreen	Normal	20	--	100	Lowers the foe's accuracy using smoke, ink, etc.
+Snore	Normal	15	40	100	A loud attack that can be used only while asleep.
+Softboiled	Normal	10	--	100	Recovers up to half the user's maximum HP.
+Sonicboom	Normal	20	--	90	Launches shock waves that always inflict 20 HP damage.
+Spike Cannon	Normal	15	20	100	Launches sharp spikes that strike 2 to 5 times.
+Spit Up	Normal	10	100	100	Releases stockpiled power (the more the better).
+Splash	Normal	40	--	--	It's just a splash... Has no effect whatsoever.
+Stockpile	Normal	10	--	--	Charges up power for up to 3 turns.
+Stomp	Normal	20	65	100	Stomps the enemy with a big foot. May cause flinching.
+Strength	Normal	15	80	100	Builds enormous power, then slams the foe.
+Struggle	Normal	1	50	100	Used only if all PP are gone. Also hurts the user a little.
+Substitute	Normal	10	--	--	Creates a decoy using 1/4 of the user's maximum HP.
+Super Fang	Normal	10	--	90	Attacks with sharp fangs and cuts half the foe's HP.
+Supersonic	Normal	20	--	55	Emits bizarre sound waves that may confuse the foe.
+Swagger	Normal	15	--	90	Confuses the foe, but also sharply raises ATTACK.
+Swallow	Normal	10	--	--	Absorbs stockpiled power and restores HP.
+Sweet Kiss	Normal	10	--	75	Demands a kiss with a cute look. May cause confusion.
+Sweet Scent	Normal	20	--	100	Allures the foe to reduce evasiveness.
+Swift	Normal	20	60	--	Sprays star-shaped rays that never miss.
+Swords Dance	Normal	30	--	--	A fighting dance that sharply raises ATTACK.
+Tackle	Normal	35	35	95	Charges the foe with a full- body tackle.
+Tail Whip	Normal	30	--	100	Wags the tail to lower the foe's DEFENSE.
+Take Down	Normal	20	90	85	A reckless charge attack that also hurts the user.
+Teeter Dance	Normal	20	--	100	Confuses all POKéMON on the scene.
+Thrash	Normal	20	90	100	A rampage of 2 to 3 turns that confuses the user.
+Tickle	Normal	20	--	100	Makes the foe laugh to lower ATTACK and DEFENSE.
+Transform	Normal	10	--	--	Alters the user's cells to become a copy of the foe.
+Tri Attack	Normal	10	80	100	Fires three types of beams at the same time.
+Uproar	Normal	10	50	100	Causes an uproar for 2 to 5 turns and prevents sleep.
+Vicegrip	Normal	30	55	100	Grips the foe with large and powerful pincers.
+Weather Ball	Normal	10	50	100	The move's type and power change with the weather.
+Whirlwind	Normal	20	--	100	Blows away the foe with wind and ends the battle.
+Wish	Normal	10	--	100	A wish that restores HP. It takes time to work.
+Wrap	Normal	20	15	85	Wraps and squeezes the foe 2 to 5 times with vines, etc.
+Yawn	Normal	10	--	100	Lulls the foe into yawning, then sleeping next turn.
+Acid	Poison	30	40	100	Sprays a hide-melting acid. May lower DEFENSE.
+Acid Armor	Poison	40	--	--	Liquifies the user's body to sharply raise DEFENSE.
+Poison Fang	Poison	15	50	100	A sharp-fanged attack. May badly poison the foe.
+Poison Gas	Poison	40	--	55	Envelops the foe in a toxic gas that may poison.
+Poison Sting	Poison	35	15	100	A toxic attack with barbs, etc., that may poison.
+Poison Tail	Poison	25	50	100	Has a high critical-hit ratio. May also poison.
+Poisonpowder	Poison	35	--	75	Scatters a toxic powder that may poison the foe.
+Sludge	Poison	20	65	100	Sludge is hurled to inflict damage. May also poison.
+Sludge Bomb	Poison	10	90	100	Sludge is hurled to inflict damage. May also poison.
+Smog	Poison	20	20	70	An exhaust-gas attack that may also poison.
+Toxic	Poison	10	--	85	Poisons the foe with an intensifying toxin.
+Agility	Psychic	30	--	--	Relaxes the body to sharply boost SPEED.
+Amnesia	Psychic	20	--	--	Forgets about something and sharply raises SP. DEF.
+Barrier	Psychic	30	--	--	Creates a barrier that sharply raises DEFENSE.
+Calm Mind	Psychic	20	--	--	Raises SP. ATK and SP. DEF by focusing the mind.
+Confusion	Psychic	25	50	100	A psychic attack that may cause confusion.
+Cosmic Power	Psychic	20	--	--	Raises DEFENSE and SP. DEF with a mystic power.
+Dream Eater	Psychic	15	100	100	Takes one half the damage inflicted on a sleeping foe.
+Extrasensory	Psychic	30	80	100	Attacks with a peculiar power. May cause flinching.
+Future Sight	Psychic	15	80	90	Heightens inner power to strike 2 turns later.
+Hypnosis	Psychic	20	--	60	A hypnotizing move that may induce sleep.
+Imprison	Psychic	10	--	100	Prevents foes from using moves known by the user.
+Kinesis	Psychic	15	--	80	Distracts the foe. May lower accuracy.
+Light Screen	Psychic	30	--	--	Creates a wall of light that lowers SP. ATK damage.
+Luster Purge	Psychic	5	70	100	Attacks with a burst of light. May lower SP. DEF.
+Magic Coat	Psychic	15	--	100	Reflects special effects back to the attacker.
+Meditate	Psychic	40	--	--	Meditates in a peaceful fashion to raise ATTACK.
+Mirror Coat	Psychic	20	--	100	Counters the foe's special attack at double the power.
+Mist Ball	Psychic	5	70	100	Attacks with a flurry of down. May lower SP. ATK.
+Psybeam	Psychic	20	65	100	Fires a peculiar ray that may confuse the foe.
+Psychic	Psychic	10	90	100	A powerful psychic attack that may lower SP. DEF.
+Psycho Boost	Psychic	5	140	90	Allows a full-power attack, but sharply lowers SP. ATK.
+Psywave	Psychic	15	--	80	Attacks with a psychic wave of varying intensity.
+Reflect	Psychic	20	--	--	Creates a wall of light that weakens physical attacks.
+Rest	Psychic	10	--	--	The user sleeps for 2 turns, restoring HP and status.
+Role Play	Psychic	10	--	100	Mimics the target and copies its special ability.
+Skill Swap	Psychic	10	--	100	The user swaps special abilities with the target.
+Teleport	Psychic	20	--	--	A psychic move for fleeing from battle instantly.
+Trick	Psychic	10	--	100	Tricks the foe into trading held items.
+Ancientpower	Rock	5	60	100	An attack that may raise all stats.
+Rock Blast	Rock	10	25	80	Hurls boulders at the foe 2 to 5 times in a row.
+Rock Slide	Rock	10	75	90	Large boulders are hurled. May cause flinching.
+Rock Throw	Rock	15	50	90	Throws small rocks to strike the foe.
+Rock Tomb	Rock	10	50	80	Stops the foe from moving with rocks and cuts SPEED.
+Rollout	Rock	20	30	90	An attack lasting 5 turns with rising intensity.
+Sandstorm	Rock	10	--	--	Causes a sandstorm that rages for several turns.
+Doom Desire	Steel	5	120	85	Summons strong sunlight to attack 2 turns later.
+Iron Defense	Steel	15	--	--	Hardens the body's surface to sharply raise DEFENSE.
+Iron Tail	Steel	15	100	75	Attacks with a rock-hard tail. May lower DEFENSE.
+Metal Claw	Steel	35	50	95	A claw attack that may raise the user's ATTACK.
+Metal Sound	Steel	40	--	85	Emits a horrible screech that sharply lowers SP. DEF.
+Meteor Mash	Steel	10	100	85	Fires a meteor-like punch. May raise ATTACK.
+Steel Wing	Steel	25	70	90	Strikes the foe with hard wings spread wide.
+Bubble	Water	30	20	100	An attack using bubbles. May lower the foe's SPEED.
+Bubblebeam	Water	20	65	100	Forcefully sprays bubbles that may lower SPEED.
+Clamp	Water	10	35	75	Traps and squeezes the foe for 2 to 5 turns.
+Crabhammer	Water	10	90	85	Hammers with a pincer. Has a high critical-hit ratio.
+Dive	Water	10	60	100	Dives underwater the first turn and strikes next turn.
+Hydro Cannon	Water	5	150	90	Powerful, but leaves the user immobile the next turn.
+Hydro Pump	Water	5	120	80	Blasts water at high power to strike the foe.
+Muddy Water	Water	10	95	85	Attacks with muddy water. May lower accuracy.
+Octazooka	Water	10	65	85	Fires a lump of ink to damage and cut accuracy.
+Rain Dance	Water	5	--	--	Boosts the power of WATER- type moves for 5 turns.
+Surf	Water	15	95	100	Creates a huge wave, then crashes it down on the foe.
+Water Gun	Water	25	40	100	Squirts water to attack the foe.
+Water Pulse	Water	20	60	100	Attacks with ultrasonic waves. May confuse the foe
+Water Sport	Water	15	--	100	The user becomes soaked to raise resistance to fire.
+Water Spout	Water	5	150	100	Inflicts more damage if the user's HP is high.
+Waterfall	Water	15	80	100	Charges the foe with speed to climb waterfalls.
+Whirlpool	Water	15	15	70	Traps and hurts the foe in a whirlpool for 2 to 5 turns.
+Withdraw	Water	40	--	--	Withdraws the body into its hard shell to raise DEFENSE.

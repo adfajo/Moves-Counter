@@ -1,0 +1,250 @@
+Fury Cutter	Bug	20	10	95	A BUG-type attack that grows more powerful with every hit. Returns to normal if it misses.
+Leech Life	Bug	15	20	100	An HP-draining attack. It adds half the HP it drained from the target to the attacker's HP.
+Megahorn	Bug	10	120	85	A BUG-type attack that uses a stiff horn or horns. It is rarely learned.
+Pin Missile	Bug	20	14	85	An attack that fires many needle-like projectiles from the body. Strikes several times.
+Spider Web	Bug	10	--	100	Sticky strings that prevent the target from escaping until the attacking Pokémon is gone.
+String Shot	Bug	40	--	95	Strings are sprayed out and wrapped around the target to reduce its SPEED.
+Twineedle	Bug	20	25	100	An attack that strikes twice. The target may occasionally become poisoned.
+Beat Up	Dark	10	10	100	A DARK-type attack. The user's fellow party Pokémon appear to pummel the target.
+Bite	Dark	25	60	100	A bite made using sharp fangs. This may cause the opponent to flinch, and it might not attack.
+Crunch	Dark	15	80	100	A DARK-type attack. Has a one-in-five chance of reducing the target's SPCL.DEF.
+Faint Attack	Dark	20	60	100	A DARK-type attack. The move catches the opponent off guard, so it never misses.
+Pursuit	Dark	20	40	100	A DARK-type attack. It inflicts major damage if the target switches out in the same turn.
+Thief	Dark	10	40	100	A DARK-type attack. The attacking Pokémon may steal an item held by the target.
+Dragon Rage	Dragon	10	40	100	A DRAGON-type attack. It always inflicts a set amount of damage.
+DragonBreath	Dragon	20	60	100	A DRAGON-type attack. Has a one-in-three chance of paralyzing the target.
+Outrage	Dragon	15	90	100	An attack that lasts two to three turns. Afterwards, the attacker will become confused.
+Twister	Dragon	20	40	100	A DRAGON-type attack. Has a one-in-five chance of causing the target to flinch.
+Spark	Electric	20	65	100	An ELECTRIC-type attack. Has a one-in-three chance of paralyzing the target.
+Thunder	Electric	10	120	70	Strongest of all ELECTRIC-type attacks. Has a one-in-ten shot at paralyzing the target.
+Thunder Wave	Electric	20	--	100	A special move that causes paralysis. The victim has a onein-four chance of immobility.
+ThunderPunch	Electric	15	75	100	A special ELECTRIC-type attack. Has a one-in-ten shot at paralyzing the target.
+ThunderShock	Electric	30	40	100	An ELECTRIC-type attack. Has a one-in-ten chance of paralyzing the target.
+Thunderbolt	Electric	15	95	100	An ELECTRIC-type attack. Has a one-in-ten chance of paralyzing the target.
+Zap Cannon	Electric	5	100	50	An ELECTRIC-type attack. Inaccurate but is guaranteed to cause paralysis if it hits.
+Counter	Fighting	20	--	100	A retaliation move that pays back double the damage of a physical attack. Very accurate.
+Cross Chop	Fighting	5	100	80	A FIGHTING-type attack. It is powerful and often lands a critical hit.
+Detect	Fighting	5	--	100	Allows user to completely evade attack. If used consecutively, its success rate decreases.
+Double Kick	Fighting	30	30	100	A FIGHTING-type attack. As the name implies, it is actually two quick kicks in succession.
+DynamicPunch	Fighting	5	100	50	A FIGHTING-type attack. Inaccurate but guaranteed to confuse the opponent if it hits.
+Hi Jump Kick	Fighting	20	85	90	Stronger than JUMP KICK. If it misses, the attacker takes 1/8 the damage it would've caused.
+Jump Kick	Fighting	25	70	95	A forceful FIGHTING-type attack. If it misses, however, the attacker gets hurt.
+Karate Chop	Fighting	25	50	100	A FIGHTING-type attack. Often turns into a critical hit and inflicts double the damage.
+Low Kick	Fighting	20	50	90	A FIGHTING-type attack. Has a one-in-three chance of making the target flinch if it hits.
+Mach Punch	Fighting	30	40	100	An incredibly fast punch that always lands first.
+Reversal	Fighting	15	--	100	An attack that increases in power if the user's HP is low. It could turn the tide in battle.
+Rock Smash	Fighting	15	20	100	A FIGHTING-type attack. In the field, it can be used to shatter rocks to open new paths.
+Rolling Kick	Fighting	15	60	85	A sharp FIGHTING-type attack. Has a one-in-three shot at making the target flinch.
+Seismic Toss	Fighting	20	--	100	A FIGHTING-type attack. Throws the target with enough force to flip the world.
+Submission	Fighting	25	80	80	Strongest FIGHTING attack. One quarter of the damage also hurts the attacker.
+Triple Kick	Fighting	10	10	90	A three-kick attack that inflicts increasing damage. When one kick misses, the move ends.
+Vital Throw	Fighting	10	70	100	A FIGHTING-type attack. Always comes after the target's attack but never misses.
+Ember	Fire	25	40	100	A FIRE-type attack. Has a onein-ten chance of leaving the target with a damaging burn.
+Fire Blast	Fire	5	120	85	Strongest FIRE-type attack. Has a one-in-ten chance of inflicting a burn on the target.
+Fire Punch	Fire	15	75	100	A special FIRE-type attack. Has a one-in-ten chance of inflicting a burn on the target.
+Fire Spin	Fire	15	15	70	A FIRE-type attack that lasts two to five turns. The flames make the target unable to move.
+Flame Wheel	Fire	25	60	100	A FIRE-type attack. Has a one-in-ten chance of inflicting a burn on the target.
+Flamethrower	Fire	15	95	100	A powerful FIRE-type attack. Has a one-in-ten chance of leaving the target with a burn.
+Sacred Fire	Fire	5	100	95	A FIRE-type attack. Has a onein-two chance of leaving the target with a burn.
+Sunny Day	Fire	5	--	90	Makes the weather sunny for five turns. When sunny, FIRE-type moves are more powerful.
+Aeroblast	Flying	5	100	95	A powerful FLYING-type attack. It often becomes a critical hit.
+Drill Peck	Flying	20	80	100	A standard FLYING-type attack. It is strong and highly likely to hit the target.
+Fly	Flying	15	70	95	The Pokémon flies high, then strikes in the next turn. Used to fly to places already visited.
+Gust	Flying	35	40	100	A FLYING-type attack. The bird Pokémon flaps its wings to create a powerful wind.
+Mirror Move	Flying	20	--	100	A move that strikes back with the opponent's last move. It comes after the enemy's move.
+Peck	Flying	35	35	100	A standard FLYING-type attack. It is favored by Pokémon with beaks or horns.
+Sky Attack	Flying	5	140	90	Strongest FLYING-type attack. Stores energy in the first turn, then fires in the next.
+Wing Attack	Flying	35	60	100	A FLYING-type attack. The attacking Pokémon spreads its wings and charges.
+Confuse Ray	Ghost	10	--	100	A sinister flash of light makes the target confused. A special GHOST-type move.
+Destiny Bond	Ghost	5	--	100	A move that causes the opponent to faint if the user faints after using this move.
+Lick	Ghost	30	20	100	A GHOST-type attack. Has a one-in-three chance of leaving the target with paralysis.
+Night Shade	Ghost	15	--	100	A GHOST-type attack. Highly accurate, it always inflicts damage.
+Nightmare	Ghost	15	--	100	A move that makes a sleeping target have bad dreams. The victim will steadily lose HP.
+Shadow Ball	Ghost	15	80	100	A GHOST-type attack. Has a one-in-five chance of reducing the target's SPCL.DEF.
+Spite	Ghost	10	--	100	A vengeful move that slightly reduces the PP of the opponent's last move.
+Absorb	Grass	20	20	100	A GRASS-type attack. It adds half the HP it drained from the target to the attacker's HP.
+Cotton Spore	Grass	40	--	85	Spores that cling to the target, sharply reducing the opponent's SPEED.
+Giga Drain	Grass	5	60	100	Half of the HP drained from the target is added to the attacker's HP.
+Leech Seed	Grass	10	--	90	Plants a seed on the target Pokémon. It slowly drains the target's HP for the attacker.
+Mega Drain	Grass	10	40	100	A GRASS-type attack. It adds half the HP it drained from the target to the attacker's HP.
+Petal Dance	Grass	20	70	100	A dance-like attack that lasts two to three turns. The attacker becomes confused.
+Razor Leaf	Grass	25	55	95	A GRASS-type attack that uses sharp-edged leaves. Likely to get a critical hit.
+Sleep Powder	Grass	15	--	75	Induces sleep. A Pokémon will stay asleep for several turns if an item isn't used to wake it.
+SolarBeam	Gras	10	120	100	Strongest GRASS-type attack. Energy is absorbed in the first turn, then fired on the next.
+Spore	Grass	15	--	100	Special spores are scattered from mushrooms. If the foe inhales them, it will fall asleep.
+Stun Spore	Grass	30	--	75	Special move that causes paralysis. The victim has a one-infour chance of immobility.
+Synthesis	Grass	5	--	100	Allows HP to be restored by the sunlight. In battle, half the user's max HP is restored.
+Vine Whip	Grass	10	35	100	A GRASS-type attack. The Pokémon uses its cruel whips to strike the opponent.
+Bone Club	Ground	20	65	85	A physical attack using a bone as a club. If it connects, it may cause the target to flinch.
+Bone Rush	Ground	10	25	80	A GROUND-type attack. The attacker uses a bone to club the foe two to five times.
+Bonemerang	Ground	10	50	90	A boomerang made of bone is thrown to inflict damage twice, on the way out and on return.
+Dig	Ground	10	60	100	The attacker digs underground in the first turn, then pops up in the next turn to attack.
+Earthquake	Ground	10	100	100	An attack that inflicts damage by shaking the ground. Useless against the FLYING type.
+Fissure	Ground	5	--	30	Causes a single-hit knockout if it hits. Useless against FLYING-type Pokémon.
+Magnitude	Ground	30	--	100	A GROUND-type attack. The power of the attack will vary each time it is used.
+Mud-Slap	Ground	10	20	100	An attack that fires dirt, inflicting damage and reducing the target's accuracy.
+Sand-Attack	Ground	15	--	100	An attack in which sand is used to blind the target and reduce its attack accuracy.
+Spikes	Ground	20	--	100	An attack that scatters SPIKES and injures opponent Pokémon when they switch.
+Aurora Beam	Ice	20	65	100	An ICE-type attack. Has a one-in-ten chance of reducing the target's ATTACK power.
+Blizzard	Ice	5	120	70	The strongest ICE-type attack. Has a one-in-ten chance of freezing the target.
+Haze	Ice	30	--	100	Eliminates all changes affecting stats, such as SPEED, of both Pokémon in battle.
+Ice Beam	Ice	10	95	100	An ICE-type attack. Has a one-in-ten chance of freezing the target solid.
+Ice Punch	Ice	15	75	100	A special ICE-type attack. Has a one-in-ten chance of freezing the target.
+Icy Wind	Ice	15	55	95	An ICE-type attack. It is guaranteed to reduce the target's SPEED if it hits.
+Mist	Ice	30	--	100	Provides full protection against any enemy status attack.
+Powder Snow	Ice	25	40	100	An ICE-type attack. Has a one-in-ten chance of freezing the target.
+Attract	Normal	15	--	100	Infatuates targets, making it hard for them to attack foes of the opposite gender.
+Barrage	Normal	20	15	85	Several spheres are thrown consecutively at the target to inflict damage.
+Baton Pass	Normal	40	--	100	A move that transfers the user's status changes to the next Pokémon when switching.
+Belly Drum	Normal	10	--	100	A move that allows the user to consume half of its own HP in order to maximize its ATTACK.
+Bide	Normal	10	--	100	The user waits for several turns. At the end, it returns double the damage it received.
+Bind	Normal	20	15	75	Traps and squeezes the target over several turns. The target cannot move while under attack.
+Body Slam	Normal	15	85	100	A NORMAL-type attack. Has a one-in-three chance of paralyzing the target if it hits.
+Charm	Normal	20	--	100	A move that charms the target into complacency, sharply reducing its ATTACK power.
+Comet Punch	Normal	15	18	85	Although each slap is weak, this attack hits the target two to five times in succession.
+Constrict	Normal	35	10	100	A NORMAL-type attack. Has a one-in-ten chance of reducing the target's SPEED.
+Conversion	Normal	30	--	100	A special move that switches the user's elemental type into one of the user's attack types.
+Conversion 2	Normal	30	--	100	A move that changes the user's type into one that is resistant to the opponent's last move.
+Cut	Normal	30	50	95	A NORMAL-type attack. Also used for cutting small bushes to open new paths.
+Defense Curl	Normal	40	--	100	Raises the user's DEFENSE. Can normally be used up to six times in a row.
+Disable	Normal	20	--	55	A move that disables one of the target's moves. That move can't be used until it wears off.
+Dizzy Punch	Normal	10	70	100	A NORMAL-type attack. Has a one-in-five chance of leaving the target confused.
+DoubleSlap	Normal	10	15	85	Although each slap is weak, this attack hits the target two to five times in succession.
+Double Team	Normal	15	--	100	Creates illusionary copies of the user. They disorient the enemy, reducing its accuracy.
+Double-Edge	Normal	15	120	100	A charging tackle attack. One quarter of the damage comes back to hurt the attacker.
+Egg Bomb	Normal	10	100	75	A NORMAL-type attack. An egg is launched at the target. It may miss, however.
+Encore	Normal	5	--	100	Forces the target to continue to use the move it used last for the next two to six turns.
+Endure	Normal	10	--	100	Always leaves the user with at least one HP. Success rate decreases if used repeatedly.
+Explosion	Normal	5	250	100	The most powerful attack of all. However, the attacker faints after using this move.
+ExtremeSpeed	Normal	5	80	100	An attack that always strikes first. It can be learned by only a few Pokémon.
+False Swipe	Normal	40	40	100	A move that adjusts ATTACK so that the foe has one HP left. Can't cause the foe to faint.
+Flail	Normal	15	--	100	An attack that increases in power if the user's HP is low. It could turn the tide in battle.
+Flash	Normal	20	--	70	Blinds the target with a bright flash of light, reducing the opponent's accuracy.
+Focus Energy	Normal	30	--	100	Raises the likelihood of nailing the opponent's weak spot for a critical hit.
+Foresight	Normal	40	--	100	Neutralizes the foe's evasiveness. Also makes the GHOST type vulnerable to physical attacks.
+Frustration	Normal	20	--	100	A NORMAL-type attack. The more the user dislikes its trainer, the more powerful the move.
+Fury Attack	Normal	20	15	85	A NORMAL-type attack. The Pokémon rapidly jabs at its opponent several times.
+Fury Swipes	Normal	15	18	80	The target is scratched by sharp claws two to five times in quick succession.
+Glare	Normal	30	--	75	Transfixes the enemy with terrifying sharp eyes, frightening it into paralysis.
+Growl	Normal	40	--	100	A move that lowers the target's ATTACK power. Can normally be used up to six times.
+Growth	Normal	40	--	100	A NORMAL-type move that raises SPCL.ATK. Normally used up to six times.
+Guillotine	Normal	5	--	30	A single-hit knockout attack. Learned only by Pokémon that have large pincers.
+Harden	Normal	30	--	100	Raises the user's DEFENSE. Useful when battling physically strong Pokémon.
+Headbutt	Normal	15	70	100	A NORMAL-type attack. Has a one-in-three chance of making the target flinch if it hits.
+Heal Bell	Normal	5	--	100	The soothing ringing of a bell that eliminates all status problems for the entire party.
+Hidden Power	Normal	15	--	100	A peculiar move that changes type and power depending on the Pokémon using it.
+Horn Attack	Normal	25	65	100	A NORMAL-type attack. A sharp horn is driven hard into the target to inflict damage.
+Horn Drill	Normal	5	--	30	A single-hit knockout attack. Learned only by Pokémon with a horn or horns.
+Hyper Beam	Normal	5	150	90	An extremely powerful attack. The attacker becomes so tired, it has to rest the next turn.
+Hyper Fang	Normal	15	80	90	A NORMAL-type attack. Has a one-in-ten chance of making the target flinch.
+Leer	Normal	30	--	100	A move that lowers the target's DEFENSE. Useful against tough, armored Pokémon.
+Lock-On	Normal	5	--	100	An attack that locks on to the target to ensure that the next attack will hit without fail.
+Lovely Kiss	Normal	10	--	75	A special move that puts the target to sleep with a big kiss. (Actually, the victim faints.)
+Mean Look	Normal	5	--	100	A probing stare that prevents the target from escaping until the attacking Pokémon is gone.
+Mega Kick	Normal	5	120	75	A NORMAL-type attack. Out of all the Pokémon kicking attacks, this is the strongest.
+Mega Punch	Normal	20	80	85	A NORMAL-type attack move. It is highly accurate and relatively powerful.
+Metronome	Normal	10	--	100	The user waggles its finger, triggering a move. There is no telling what will happen.
+Milk Drink	Normal	10	--	100	A move that restores HP by half of the user's max HP. This move may also be used in the field.
+Mimic	Normal	10	--	100	A move for learning one of the opponent's moves, for use during that battle only.
+Mind Reader	Normal	5	--	100	It predicts the opponent's movement. The user's next attack will never miss.
+Minimize	Normal	20	--	100	Reduces the user's size and makes it harder to hit. Can normally be used up to six times.
+Moonlight	Normal	5	--	100	Allows HP to be restored by the moonlight. In battle, half the user's max HP is restored.
+Morning Sun	Normal	5	--	100	Allows HP to be restored by the morning sunlight. In battle, half the user's max HP is restored.
+Pain Split	Normal	20	--	100	A move that adds the HPs of the user and the target, then divides the total between them.
+Pay Day	Normal	20	40	100	A move that nets money at the end of battle. How much depends on attack frequency and level.
+Perish Song	Normal	5	--	100	A malevolent melody that causes both the user and the opponent to faint in three turns.
+Pound	Normal	35	40	100	A NORMAL-type attack. Slightly stronger than TACKLE. Many Pokémon know this move.
+Present	Normal	15	--	90	A move that inflicts major damage but may restore the target's HP.
+Protect	Normal	10	--	100	Completely foils an opponent's attack. If used consecutively, its success rate decreases.
+Psych Up	Normal	10	--	100	Self-hypnosis move that copies the foe's stats changes, then applies them to the user.
+Quick Attack	Normal	30	40	100	Always strikes first. If both Pokémon use this, the one with higher SPEED attacks first.
+Rage	Normal	20	20	100	A non-stop attack move. The user's ATTACK power increases every time it sustains damage.
+Rapid Spin	Normal	40	20	100	A NORMAL-type attack. By spinning quickly, the user can escape from restraining moves.
+Razor Wind	Normal	10	80	75	A two-turn attack with the wind attack in the second turn. Learned by many FLYING types.
+Recover	Normal	20	--	100	Half of the user's maximum HP is restored. Few Pokémon learn this move on their own.
+Return	Normal	20	--	100	A NORMAL-type attack. The tamer the user, the more powerful the move.
+Roar	Normal	20	--	100	A terrifying roar that drives the target away. The opposing trainer must use a new Pokémon.
+Safeguard	Normal	25	--	100	A mystic power that protects the user from status problems for five turns.
+Scary Face	Normal	10	--	90	A horrific look that scares the victim, sharply reducing the target's SPEED.
+Scratch	Normal	35	40	100	A NORMAL-type attack. Sharp claws are used to inflict damage on the target.
+Screech	Normal	40	--	85	A move that makes a horrible noise. It sharply reduces the target's DEFENSE.
+Selfdestruct	Normal	5	200	100	The user explodes, damaging the enemy, then faints. Useless against the GHOST type.
+Sharpen	Normal	30	--	100	Raises the user's ATTACK power. The edges of the Pokémon are made harder for more impact.
+Sing	Normal	15	--	55	A special NORMAL-type move. A soothing melody lulls the target to sleep.
+Sketch	Normal	1	--	100	A move that allows the user to copy a move used by an opponent and learn that move.
+Skull Bash	Normal	15	100	100	In the first turn, the attacker tucks its head. The next turn, it head-butts at full steam.
+Slam	Normal	20	80	75	A NORMAL-type attack move. The attacker uses an appendage to slam the target hard.
+Slash	Normal	20	70	100	A NORMAL-type attack. It has a high probability of a critical hit for inflicting double damage.
+Sleep Talk	Normal	10	--	100	Randomly chooses one of the user's moves. Can be used only by a sleeping Pokémon.
+SmokeScreen	Normal	20	--	100	Creates an obscuring cloud of smoke that reduces the enemy's accuracy.
+Snore	Normal	15	40	100	Has a one-in-three chance of making the target flinch. Can be used only by a sleeping Pokémon.
+Softboiled	Normal	10	--	100	Half of the user's maximum HP is restored. May also be used in the field.
+SonicBoom	Normal	20	20	90	A NORMAL-type attack. It always inflicts a set amount of damage.
+Spike Cannon	Normal	15	20	100	A physical attack consisting of two to five consecutive hits. Highly accurate.
+Splash	Normal	40	--	100	A move that involves only flopping and SPLASHing around. It has no effect.
+Stomp	Normal	20	65	100	A NORMAL-type attack. Has a one-in-three chance of making the target flinch if it hits.
+Strength	Normal	15	80	100	A very powerful NORMAL-type attack. Also used for moving obstacles like boulders.
+Struggle	Normal	1	50	100	Used only if the user is totally out of PP. The user is hit with 1/4 the damage it inflicts.
+Substitute	Normal	10	--	100	Uses 1/4 of the user's maximum HP to create a substitute that takes the opponent's attacks.
+Super Fang	Normal	10	--	90	If it hits, this attack cuts the target's HP in half. Learned by Pokémon with developed fangs.
+Supersonic	Normal	20	--	55	A special NORMAL-type move. Supersonic sound waves are used to confuse the target.
+Swagger	Normal	15	--	90	A move that infuriates and confuses the opponent, but it increases the target's ATTACK.
+Sweet Kiss	Normal	10	--	75	A sweet little kiss that causes the target to become giddy and confused.
+Sweet Scent	Normal	20	--	100	A pleasant aroma that distracts the target, making the opponent easier to hit.
+Swift	Normal	20	60	100	A NORMAL-type attack. It is highly accurate, so it can be counted on to inflict damage.
+Swords Dance	Normal	30	--	100	A special move that boosts the user's ATTACK power. Normally used up to three times.
+Tackle	Normal	35	35	95	A NORMAL-type attack. Many Pokémon know this attack right from the start.
+Tail Whip	Normal	30	--	100	A move that lowers the target's DEFENSE. Useful against tough, armored Pokémon.
+Take Down	Normal	20	90	85	A charging attack. One quarter of the damage it inflicts comes back to hurt the attacker.
+Thrash	Normal	20	90	100	An attack that lasts two to three turns. Afterwards, the attacker becomes confused.
+Transform	Normal	10	--	100	Transforms user into a copy of the target, including the type. All moves have only five PP each.
+Tri Attack	Normal	10	80	100	A NORMAL-type attack. A triangular field of energy is created and launched.
+ViceGrip	Normal	30	55	100	A NORMAL-type attack used only by Pokémon with pincers. The target is gripped and injured.
+Whirlwind	Normal	20	--	100	A powerful wind that blows the target away. The opposing trainer must use a new Pokémon.
+Wrap	Normal	20	15	85	Traps and squeezes the target over two to five turns, making the target unable to move.
+Acid	Poison	30	40	100	A POISON-type attack. Has a one-in-ten chance of lowering the target's DEFENSE.
+Acid Armor	Poison	40	--	100	Melts the user's body for protection. A move that sharply raises DEFENSE.
+Poison Gas	Poison	40	--	55	A poisonous cloud of gas is forcefully expelled to poison the target.
+Poison Sting	Poison	35	15	100	A POISON-type attack. Has a one-in-three chance of leaving the target poisoned.
+PoisonPowder	Poison	35	--	75	A move that poisons the target. If poisoned, the victim loses HP steadily.
+Sludge	Poison	20	65	100	A POISON-type attack. Has a one-in-three chance of poisoning the target.
+Sludge Bomb	Poison	10	90	100	A POISON-type attack. Has a one-in-three chance of leaving the target poisoned.
+Smog	Poison	20	20	70	Smog is spewed as a cloud. Has a fifty-fifty chance of poisoning the target.
+Toxic	Poison	10	--	85	A move that badly poisons the target. The amount of poison damage increases every turn.
+Agility	Psychic	30	--	100	A special move that greatly boosts the user's SPEED. Normally used up to three times.
+Amnesia	Psychic	20	--	100	A move that increases the user's SPCL.DEF stat. It is normally used up to three times.
+Barrier	Psychic	30	--	100	Instantly forms a barrier between the user and the opponent. DEFENSE is increased.
+Confusion	Psychic	25	50	100	A PSYCHIC-type attack. Has a one-in-ten chance of leaving the target confused.
+Dream Eater	Psychic	15	100	100	Works only on sleeping Pokémon. Steals the target's HP and adds 50%% of it to the user's HP.
+Future Sight	Psychic	15	80	90	A special PSYCHIC-type attack. It strikes the target two turns after it is used.
+Hypnosis	Psychic	20	--	60	A special PSYCHIC-type move. The target is hypnotized into a deep sleep.
+Kinesis	Psychic	15	--	80	A special move of bending spoons to confound the enemy. Makes the user harder to hit.
+Light Screen	Psychic	30	--	100	Reduces damage from special attacks by about half. A special PSYCHIC-type move.
+Meditate	Psychic	40	--	100	A special move that boosts the user's ATTACK power. Can normally be used up to six times.
+Mirror Coat	Psychic	20	--	100	The foe will receive double the damage the user sustained from a special attack. High accuracy.
+Psybeam	Psychic	20	65	100	A PSYCHIC-type attack. Has a one-in-ten chance of making the target confused.
+Psychic	Psychic	10	90	100	A PSYCHIC-type attack. Has a one-in-ten chance of lowering the target's SPCL.DEF rating.
+Psywave	Psychic	15	--	80	A PSYCHIC-type attack of varying intensity. It occasionally inflicts heavy damage.
+Reflect	Psychic	20	--	100	Reduces damage from physical attacks by about half. A special PSYCHIC-type move.
+Rest	Psychic	10	--	100	The user takes a nap to fully restore its HP and recover from any status abnormalities.
+Teleport	Psychic	20	--	100	A special move for instantly escaping from wild Pokémon. Useful in the wild only.
+AncientPower	Rock	5	60	100	A ROCK-type attack. This prehistoric move may boost all of the user's stats.
+Rock Slide	Rock	10	75	90	A ROCK-type attack that hits the target with an avalanche of rocks and boulders.
+Rock Throw	Rock	15	50	90	A ROCK-type attack. As the name implies, a huge boulder is dropped on the target.
+Rollout	Rock	20	30	90	Attacks for five turns, growing more powerful each time. Power returns to normal if it misses.
+Sandstorm	Rock	10	--	100	An attack that creates a sandstorm. The effect causes damage to both combatants.
+Iron Tail	Steel	15	100	75	Strikes the target with a stiff tail. Has a one-in-three shot at lowering the target's DEFENSE.
+Metal Claw	Steel	35	50	95	Strikes the target with sharp claws. Has a one-in-ten shot at raising the user's ATTACK.
+Steel Wing	Steel	25	70	90	Strikes the target with stiff wings. Has a one-in-ten chance of raising the user's DEFENSE.
+Bubble	Water	30	20	100	A WATER-type attack. Has a one-in-ten chance of reducing the target's SPEED.
+BubbleBeam	Water	20	65	100	A WATER-type attack. Has a one-in-ten chance of reducing the target's SPEED.
+Clamp	Water	10	35	75	Grips the target in the attacker's shell for two to five turns.
+Crabhammer	Water	10	90	85	A move that is used only by Pokémon with pincers. Likely to get a critical hit.
+Hydro Pump	Water	5	120	80	The strongest WATER-type attack. While it is powerful, it may miss the target.
+Octazooka	Water	10	65	85	An attack that shoots ink. Has a fifty-fifty chance of reducing the target's accuracy.
+Rain Dance	Water	5	--	90	Summons rain for five turns. While it is raining, the power of WATER-type moves increases.
+Surf	Water	15	95	100	A WATER-type attack. This move is strong and highly accurate.
+Water Gun	Water	25	40	100	A WATER-type attack. Stronger than BUBBLE. Many WATER-type Pokémon learn this move.
+Waterfall	Water	15	80	100	A WATER-type attack. Hits with a blow packing the power of fish traveling up waterfalls.
+Whirlpool	Water	15	15	70	Lasts two to five turns. Foe becomes trapped in a vortex, making it impossible to switch.
+Withdraw	Water	40	--	100	Used mainly by Pokémon with shells. By withdrawing into the shell, DEFENSE is increased.
