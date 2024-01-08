@@ -24,7 +24,6 @@ public class Database {
         Scanner scan = new Scanner(line);
         scan.useDelimiter("\t");
         String name = scan.next();
-        System.out.println(name);
         String type = scan.next();
         int pP = Integer.parseInt(scan.next());
         String power = scan.next();

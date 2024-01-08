@@ -1,19 +1,19 @@
 
-
-java:S1319	"iThe type of "listMoves" should be an interface such as "List" rather than the implementation "ArrayList".(Ù´“À
-
-java:S1319
-"kThe type of "activeMoves" should be an interface such as "List" rather than the implementation "ArrayList".( ®¶
-‹
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(çŠŸùûÿÿÿÿ
 †
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùñú
-
-java:S1319T"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(ÜÇùÜüÿÿÿÿ
-k
-java:S1104	"UMake listMoves a static final constant or non-public and provide accessors if needed.(Ù´“À
-m
+java:S1319
+"iThe type of "listMoves" should be an interface such as "List" rather than the implementation "ArrayList".(Ù´“À8ïíşĞÎ1
+ˆ
+java:S1319"kThe type of "activeMoves" should be an interface such as "List" rather than the implementation "ArrayList".( ®¶8ïíşĞÎ1
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(šøçÊÿÿÿÿÿ8ïíşĞÎ1
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùñú8ïíşĞÎ1
+r
 java:S1104
-"WMake activeMoves a static final constant or non-public and provide accessors if needed.( ®¶
-m
-java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÜÇùÜüÿÿÿÿ
+"UMake listMoves a static final constant or non-public and provide accessors if needed.(Ù´“À8ïíşĞÎ1
+t
+java:S1104"WMake activeMoves a static final constant or non-public and provide accessors if needed.( ®¶8ïíşĞÎ1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Á¤„ÑÎ1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Â¤„ÑÎ1

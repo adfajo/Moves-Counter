@@ -1,8 +1,7 @@
 
 `	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
 `	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-`
-java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÄÉçÄıÿÿÿÿ
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÄÉçÄıÿÿÿÿ8‘šÏÎ1
 Z
 java:S2147'"DCombine this catch with the one at line 37, which has the same body.(ï­£Ä
-N	java:S106#"9Replace this use of System.out or System.err by a logger.(™İú›

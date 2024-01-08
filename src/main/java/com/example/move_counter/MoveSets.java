@@ -1,6 +1,7 @@
 package com.example.move_counter;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -13,8 +14,13 @@ public class MoveSets {
         this.allMoves = new ArrayList<>();
     }
 
-    public ArrayList<Move> getAllMoves(){
-        return allMoves;
+    public ArrayList<String> getAllMoves(){
+        ArrayList<String> name = new ArrayList<>();
+        for(Move move : allMoves){
+            name.add(move.getName());
+        }
+        Collections.sort(name);
+        return name;
     }
 
     public ArrayList<Move> getActiveMoves(){
