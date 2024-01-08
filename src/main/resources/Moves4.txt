@@ -95,7 +95,7 @@ Superpower	Fighting	5	120	100	The user attacks the foe with great power. However
 Triple Kick	Fighting	10	10	90	A consecutive three- kick attack that becomes more powerful with each successive hit.
 Vacuum Wave	Fighting	30	40	100	The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.
 Vital Throw	Fighting	10	70	--	The user allows the foe to attack first. In return, this throw move is guaranteed not to miss.
-Wake-up Slap    Fighting	10	60	100	This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.
+Wake-up Slap	Fighting	10	60	100	This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however.
 Blast Burn	Fire	5	150	90	The foe is razed by a fiery explosion. The user must rest on the next turn, however.
 Blaze Kick	Fire	10	85	90	The user launches a kick with a high critical-hit ratio. It may also leave the target with a burn.
 Ember	Fire	25	40	100	The foe is attacked with small flames. The target may also be left with a burn.
@@ -105,7 +105,7 @@ Fire Fang	Fire	15	65	95	The user bites with flame-cloaked fangs. It may also mak
 Fire Punch	Fire	15	75	100	The foe is punched with a fiery fist. It may leave the target with a burn.
 Fire Spin	Fire	15	15	70	The foe becomes trapped within a fierce vortex of fire that rages for two to five turns.
 Flame Wheel	Fire	25	60	100	The user cloaks itself in fire and charges at the foe. It may also leave the target with a burn.
-Flamethrower    Fire	15	95	100	The foe is scorched with an intense blast of fire. The target may also be left with a burn.
+Flamethrower	Fire	15	95	100	The foe is scorched with an intense blast of fire. The target may also be left with a burn.
 Flare Blitz	Fire	15	120	100	The user cloaks itself in fire and charges at the foe. The user sustains serious damage, too.
 Heat Wave	Fire	10	100	90	The user exhales a heated breath on the foe to attack. It may also leave the target with a burn.
 Lava Plume	Fire	15	80	100	An inferno of scarlet flames washes over all Pokémon in battle. It may also inflict burns.
@@ -168,7 +168,7 @@ Power Whip	Grass	10	120	85	The user violently whirls its vines or tentacles to h
 Razor Leaf	Grass	25	55	95	Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.
 Seed Bomb	Grass	15	80	100	The user slams a barrage of hard- shelled seeds down on the foe from above.
 Seed Flare	Grass	5	120	85	The user generates a shock wave from within its body. It may also lower the target's Sp. Def.
-Sleep Powder    Grass	15	--	75	The user scatters a big cloud of sleep- inducing dust around the foe.
+Sleep Powder	Grass	15	--	75	The user scatters a big cloud of sleep- inducing dust around the foe.
 Solarbeam	Grass	10	120	100	A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
 Spore	Grass	15	--	100	The user scatters bursts of spores that induce sleep.
 Stun Spore	Grass	30	--	75	The user scatters a cloud of paralyzing powder. It may paralyze the target.
@@ -199,7 +199,7 @@ Haze	Ice	30	--	--	The user creates a haze that eliminates every stat change amon
 Ice Ball	Ice	20	30	90	The user continually rolls into the foe over five turns. It becomes stronger each time it hits.
 Ice Beam	Ice	10	95	100	The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.
 Ice Fang	Ice	15	65	95	The user bites with cold-infused fangs. It may also make the foe flinch or freeze.
-Ice Punch   Ice 15	75	100	The foe is punched with an icy fist. It may leave the target frozen.
+Ice Punch	Ice	15	75	100	The foe is punched with an icy fist. It may leave the target frozen.
 Ice Shard	Ice	30	40	100	The user flash freezes chunks of ice and hurls them. This move always goes first.
 Icicle Spear	Ice	30	10	100	The user launches sharp icicles at the foe. It strikes two to five times in a row.
 Icy Wind	Ice	15	55	95	The user attacks with a gust of chilled air. It also lowers the target's Speed stat.
