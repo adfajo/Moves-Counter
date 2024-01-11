@@ -4,9 +4,6 @@ import javafx.collections.FXCollections;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class HelloController {
 
     @FXML
@@ -18,13 +15,13 @@ public class HelloController {
     @FXML
     private CheckBox check4;
     @FXML
-    private ComboBox move1;
+    private ComboBox moveBox1;
     @FXML
-    private ComboBox move2;
+    private ComboBox moveBox2;
     @FXML
-    private ComboBox move3;
+    private ComboBox moveBox3;
     @FXML
-    private ComboBox move4;
+    private ComboBox moveBox4;
     @FXML
     private Label move1Pp;
     @FXML
@@ -32,12 +29,19 @@ public class HelloController {
     @FXML
     private Button sub1;
 
+    private Move move1;
+    private Move move2;
+    private Move move3;
+    private Move move4;
+    private MoveSets allMoves;
+    private Database db;
+
     @FXML
     public void initialize() {
-        move1.setDisable(true);
-        move2.setDisable(true);
-        move3.setDisable(true);
-        move4.setDisable(true);
+        moveBox1.setDisable(true);
+        moveBox2.setDisable(true);
+        moveBox3.setDisable(true);
+        moveBox4.setDisable(true);
         move1Pp.setDisable(true);
         add1.setDisable(true);
         sub1.setDisable(true);
@@ -58,6 +62,8 @@ public class HelloController {
         add1.setDisable(false);
         sub1.setDisable(false);
         move1Pp.setDisable(false);
+        move1 = db.readMoves().getMove(moveBox1.getValue());
+        move1Pp.setText(String.valueOf(move1.getPP()));
     }
 
     @FXML
@@ -66,23 +72,23 @@ public class HelloController {
             check2.setDisable(true);
             check3.setDisable(true);
             check4.setDisable(true);
-            Database db = new Database("Moves1");
-            move1.setDisable(false);
-            move1.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move2.setDisable(false);
-            move2.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move3.setDisable(false);
-            move3.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move4.setDisable(false);
-            move4.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            db = new Database("Moves1");
+            moveBox1.setDisable(false);
+            moveBox1.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox2.setDisable(false);
+            moveBox2.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox3.setDisable(false);
+            moveBox3.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox4.setDisable(false);
+            moveBox4.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
         }else{
             check2.setDisable(false);
             check3.setDisable(false);
             check4.setDisable(false);
-            move1.setDisable(true);
-            move2.setDisable(true);
-            move3.setDisable(true);
-            move4.setDisable(true);
+            moveBox1.setDisable(true);
+            moveBox2.setDisable(true);
+            moveBox3.setDisable(true);
+            moveBox4.setDisable(true);
         }
     }
 
@@ -92,23 +98,23 @@ public class HelloController {
             check1.setDisable(true);
             check3.setDisable(true);
             check4.setDisable(true);
-            Database db = new Database("Moves2");
-            move1.setDisable(false);
-            move1.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move2.setDisable(false);
-            move2.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move3.setDisable(false);
-            move3.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move4.setDisable(false);
-            move4.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            db = new Database("Moves2");
+            moveBox1.setDisable(false);
+            moveBox1.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox2.setDisable(false);
+            moveBox2.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox3.setDisable(false);
+            moveBox3.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox4.setDisable(false);
+            moveBox4.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
         }else{
             check1.setDisable(false);
             check3.setDisable(false);
             check4.setDisable(false);
-            move1.setDisable(true);
-            move2.setDisable(true);
-            move3.setDisable(true);
-            move4.setDisable(true);
+            moveBox1.setDisable(true);
+            moveBox2.setDisable(true);
+            moveBox3.setDisable(true);
+            moveBox4.setDisable(true);
         }
     }
 
@@ -118,23 +124,23 @@ public class HelloController {
             check2.setDisable(true);
             check1.setDisable(true);
             check4.setDisable(true);
-            Database db = new Database("Moves3");
-            move1.setDisable(false);
-            move1.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move2.setDisable(false);
-            move2.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move3.setDisable(false);
-            move3.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move4.setDisable(false);
-            move4.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            db = new Database("Moves3");
+            moveBox1.setDisable(false);
+            moveBox1.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox2.setDisable(false);
+            moveBox2.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox3.setDisable(false);
+            moveBox3.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox4.setDisable(false);
+            moveBox4.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
         }else{
             check2.setDisable(false);
             check1.setDisable(false);
             check4.setDisable(false);
-            move1.setDisable(true);
-            move2.setDisable(true);
-            move3.setDisable(true);
-            move4.setDisable(true);
+            moveBox1.setDisable(true);
+            moveBox2.setDisable(true);
+            moveBox3.setDisable(true);
+            moveBox4.setDisable(true);
         }
     }
 
@@ -144,23 +150,23 @@ public class HelloController {
             check2.setDisable(true);
             check3.setDisable(true);
             check1.setDisable(true);
-            Database db = new Database("Moves4");
-            move1.setDisable(false);
-            move1.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move2.setDisable(false);
-            move2.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move3.setDisable(false);
-            move3.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
-            move4.setDisable(false);
-            move4.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            db = new Database("Moves4");
+            moveBox1.setDisable(false);
+            moveBox1.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox2.setDisable(false);
+            moveBox2.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox3.setDisable(false);
+            moveBox3.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
+            moveBox4.setDisable(false);
+            moveBox4.setItems(FXCollections.observableList(db.readMoves().getAllMoves()));
         }else{
             check2.setDisable(false);
             check3.setDisable(false);
             check1.setDisable(false);
-            move1.setDisable(true);
-            move2.setDisable(true);
-            move3.setDisable(true);
-            move4.setDisable(true);
+            moveBox1.setDisable(true);
+            moveBox2.setDisable(true);
+            moveBox3.setDisable(true);
+            moveBox4.setDisable(true);
         }
     }
 }
