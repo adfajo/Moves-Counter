@@ -17,23 +17,20 @@
    <children>
       <VBox prefHeight="200.0" prefWidth="100.0" GridPane.rowIndex="1">
          <children>
-            <ComboBox fx:id="move1" onAction="#moveChoice1" prefWidth="150.0">
+            <ComboBox fx:id="moveBox1" onAction="#moveChoice1" prefWidth="150.0">
                <VBox.margin>
                   <Insets left="50.0" />
                </VBox.margin></ComboBox>
             <HBox prefHeight="100.0" prefWidth="200.0">
                <children>
-                  <Label fx:id="move1Pp">
+                  <Label fx:id="move1Pp" prefHeight="24.0" prefWidth="33.0">
                      <HBox.margin>
-                        <Insets left="125.0" />
+                        <Insets left="100.0" />
                      </HBox.margin>
-                     <padding>
-                        <Insets bottom="7.0" left="30.0" />
-                     </padding>
                   </Label>
                   <Button fx:id="add1" mnemonicParsing="false" onAction="#addMove1" text="+">
                      <HBox.margin>
-                        <Insets />
+                        <Insets left="20.0" />
                      </HBox.margin></Button>
                   <Button fx:id="sub1" mnemonicParsing="false" onAction="#subMove1" text="-">
                      <HBox.margin>
@@ -42,7 +39,7 @@
                   </Button>
                </children>
             </HBox>
-            <ComboBox fx:id="move3" prefWidth="150.0">
+            <ComboBox fx:id="moveBox3" prefWidth="150.0">
                <VBox.margin>
                   <Insets left="50.0" top="50.0" />
                </VBox.margin>
@@ -51,12 +48,12 @@
       </VBox>
       <VBox prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
          <children>
-            <ComboBox fx:id="move2" prefWidth="150.0">
+            <ComboBox fx:id="moveBox2" prefWidth="150.0">
                <VBox.margin>
                   <Insets left="50.0" />
                </VBox.margin>
             </ComboBox>
-            <ComboBox fx:id="move4" prefWidth="150.0">
+            <ComboBox fx:id="moveBox4" prefWidth="150.0">
                <VBox.margin>
                   <Insets left="50.0" top="50.0" />
                </VBox.margin>

@@ -24,6 +24,13 @@ public class MoveSets {
         return name;
     }
 
+    public Move getMove(Object object){
+        for(Move move : allMoves){
+            if(move.getName().equals(object.toString())) return move;
+        }
+        return null;
+    }
+
     public ArrayList<Move> getActiveMoves(){
         return activeMoves;
     }
