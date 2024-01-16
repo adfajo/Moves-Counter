@@ -9,24 +9,21 @@ package com.example.move_counter;
  */
 public class Move {
     private String name;
-    private String desc;
     private String type;
     private int pP;
-    private String power;
-    private String acc;
+    private int power;
+    private int acc;
 
     /**
      * Constructor of the Move class.
      * @param name name of the move
-     * @param desc description of the move
      * @param type which typing the move has (Normal/Fighting/Poison/Ghost, etc.)
      * @param pP how much PP the move has. (How many times a move can be used)
      * @param power represents how much damage a move deals.
      * @param acc what the accuracy of a move is.
      */
-    public Move(String name, String type, int pP, String power, String acc, String desc) {
+    public Move(String name, String type, int pP, int power, int acc) {
         this.name = name;
-        this.desc = desc;
         this.type = type;
         this.pP = pP;
         this.power = power;
@@ -39,14 +36,6 @@ public class Move {
      */
     public String getName(){
         return this.name;
-    }
-
-    /**
-     * get method for the description field.
-     * @return the move description
-     */
-    public String getDesc(){
-        return this.desc;
     }
 
     /**
@@ -69,7 +58,7 @@ public class Move {
      * get method for the power field.
      * @return the power field
      */
-    public String getPower(){
+    public int getPower(){
         return this.power;
     }
 
@@ -77,7 +66,7 @@ public class Move {
      * get method for the accuracy field.
      * @return the accuracy field
      */
-    public String getAcc(){
+    public int getAcc(){
         return this.acc;
     }
 }

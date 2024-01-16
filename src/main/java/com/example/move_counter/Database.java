@@ -26,10 +26,9 @@ public class Database {
         String name = scan.next();
         String type = scan.next();
         int pP = Integer.parseInt(scan.next());
-        String power = scan.next();
-        String acc = scan.next();
-        String desc = scan.next();
-        moveSet.addMove(new Move(name, type, pP, power, acc, desc));
+        int power = Integer.parseInt(scan.next());
+        int acc = Integer.parseInt(scan.next());
+        moveSet.addMove(new Move(name, type, pP, power, acc));
         line = bf.readLine();
       }
       bf.close();
